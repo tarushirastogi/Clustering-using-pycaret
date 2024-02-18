@@ -7,4 +7,4 @@
 ## Clustering Algorithms Used : ##
 *K-Means Clustering* <br> 
 *Hierarchical Clustering* <br>
-*K-Means Shift Algorithm* <br> 
+*K-Means Shift Clustering* <br> 
