@@ -1,10 +1,8 @@
-# Clustering-using-pycaret
+# Clustering-using-pycaret #
 
-## Dataset Used :
-### Wholesale Customers Data
- *Link : https://archive.ics.uci.edu/dataset/292/wholesale+customers*<br>
-
-## Clustering Algorithms Used :
- *K-Means Clustering 
- *Hierarchical Clustering
-*K-Means Shift Algorithm <br>
+## Dataset Used : ##
+[Wholesale_Customers_data](https://archive.ics.uci.edu/dataset/292/wholesale+customers)
+## Clustering Algorithms Used : ##
+*K-Means Clustering 
+*Hierarchical Clustering
+*K-Means Shift Algorithm 
